@@ -21,3 +21,5 @@ This repository contains my hands-on practice with **Seaborn**, a powerful Pytho
 * Seaborn
 
 This repository is part of my Data Analytics and Data Science learning journey, where I practice visualization techniques and build a strong foundation in exploratory data analysis (EDA).
+
+Author Name: Pallvi Rajput
